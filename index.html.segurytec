@@ -1,1 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>SEGURYTEC MONITORAMENTO 24HRS</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
 
+	<body>
+		<header>
+			<h1 class="titulo-principal">SEGURYTEC MONITORAMENTO DE ALARMES 24HRS<h1>
+			</header>
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3wyvUN50cJ6szvNisKZrCHYJSVz8S_8Yqdw&s" width="600" height="600" class="Imagemdealtaqualidade">
+
+		<div class="principal">
+			<h2 class="titulo-centralizado">FALANDO SOBRE A SEGURYTEC!</h2>
+	 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0gJcjaCiRgc1fF9ISBKS-1CbHe_so_Q5ew&s" class="imagemdestaque">
+	 <img src="" class="imagemdestaque">
+	 <img src="" class="imagemdestaque">
+
+			<p>A <strong>SEGURYTEC</strong> traz para o mercado o que há de melhor para o seu estilo masculino moderno. Fundada em 2012, a <strong>SEGURYTEC </strong>já é destaque no Mercado de Segurança no Estado do Paraná, e conquista novos clientes a cada dia.</p>
+
+			<p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e melhorar a IMAGEM E CONFIANÇA de todos os homens inseguros de si, que não se sentem bem consigo mesmos e com o seu reflexo no espelho e na sociedade..."</strong>.</em></p>
+
+			<p>Oferecemos produtos 100% originais e com qualidade e antenados às mudanças no mundo da moda e do desenvolvimento masculino. O atendimento possui um tipo de padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+		</div>
+
+		<div class="motivos">
+			<h3 class="titulo-centralizado">Bons motivos para confiar na SEGURYTEC, entre eles:</h3>
+
+			<ul>
+				<li class="itens1">Atendimento instantâneo aos Clientes</li>
+				<li class="itens1">Espaço diferenciado e mega interativo</li>
+				<li class="itens1">Características completas em todos os produtos</li>
+				<li class="itens1">Pouca quantidade, mas com muita QUALIDADE</li>
+			</imagensdiversas>
+			
+			<img src="https://cdn.shopify.com/s/files/1/0555/1846/2084/files/01_480x480.jpg?v=1639767647" class="imagemmotivos">
+			<img src="https://http2.mlstatic.com/D_NQ_NP_601878-MLB77752142398_072024-O.webp" class="imagemmotivos">
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8mdDAtHvDDGRbpp8gQiFmmmVyJMiEPNrig&s" class="imagemmotivos">
+			<img src="https://i.pinimg.com/736x/be/34/59/be345917767f48ecd09d13a6c8987281.jpg" class="imagemmotivos">
+		</div>
+	</body>
