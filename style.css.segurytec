@@ -1,1 +1,68 @@
+.Imagemdealtaqualidade {
+	width: 90%;
+	padding: 100px;
+	height: 250vh;
+	transform: scale(0.8);
+}
 
+.principal{
+	background: hsl(0, 0%, 9%);
+	padding: 50px;
+	width: 95%;
+	color:white
+}
+
+.titulo-principal {
+	text-align: center;
+	color: white;
+	padding-left: 50px;
+	font-size: 80px;
+	background-color: rgb(14, 13, 14);
+}
+
+.titulo-centralizado {
+	font-size: 60px;
+	text-align: center
+}
+
+.imagemdestaque {
+	width: 100%;
+}
+p {
+	text-align: center;
+	font-size: 40px;
+}
+
+#missao {
+	font-size: 40px;
+}
+
+em strong {
+	color: #ffd429;
+}
+
+.itens1 {
+	width: 100%;
+	font-style: impact
+}
+
+.motivos {
+	background: rgb(53, 49, 49);
+	padding: 60px;
+	width: 95%;
+	font-size: 30px;
+	font-style: impact;
+	color: rgb(255, 248, 237);
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+	color: #fffefb;
+}
+
+.imagemmotivoss {
+	width: 60%;
+}
