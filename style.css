@@ -36,8 +36,8 @@ em strong {
 	color: #ffd429;
 }
 
-.itens {
-	width: 80%;
+.itens1 {
+	width: 100%;
 	font-style: impact
 }
 
@@ -58,4 +58,21 @@ ul {
 
 .imagemmotivoss {
 	width: 60%;
+}
+
+.Acesse {
+color: sienna;
+width: 100%;
+font-size: 80px;
+
+}
+
+.Link {
+
+}
+
+.itens2 {
+	padding: 50px;
+	font-size: 40px;
+	width: 200%;
 }
