@@ -2,7 +2,7 @@
 <html lang="pt-br">
 	<head>
 		<meta charset="UTF-8">
-		<title>SEGURYTEC MONITORAMENTO 24HRS</title>
+		<title>Segurytec Monitoramento 24hrs</title>
 		<link rel="stylesheet" href="style.css">
 	</head>
 
@@ -13,31 +13,84 @@
 			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3wyvUN50cJ6szvNisKZrCHYJSVz8S_8Yqdw&s" width="600" height="600" class="Imagemdealtaqualidade">
 
 		<div class="principal">
-			<h2 class="titulo-centralizado">FALANDO SOBRE A SEGURYTEC!</h2>
-	 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0gJcjaCiRgc1fF9ISBKS-1CbHe_so_Q5ew&s" class="imagemdestaque">
-	 <img src="" class="imagemdestaque">
-	 <img src="" class="imagemdestaque">
+			<h2 class="titulo-centralizado">FALANDO SOBRE O PROPÓSITO DA EMPRESA SEGURYTEC!</h2>
+	 <img src="https://st2.depositphotos.com/1071909/6389/i/450/depositphotos_63896389-stock-photo-property-security-and-insurance-concept.jpg" class="imagemdestaque">
 
-			<p>A <strong>SEGURYTEC</strong> traz para o mercado o que há de melhor para o seu estilo masculino moderno. Fundada em 2012, a <strong>SEGURYTEC </strong>já é destaque no Mercado de Segurança no Estado do Paraná, e conquista novos clientes a cada dia.</p>
+			<p><strong>Protegemos o que mais importa para você!</strong> Na <strong>Segurytec Monitoramento 24hrs</strong> sua segurança é nossa prioridade.
+				Com tecnologia de ponta e vigilância ininterrupta, estamos sempre atentos.
+				Sua tranquilidade não tem preço, e nós garantimos sua proteção.
+				Conte com especialistas preparados para agir a qualquer momento.
+				Segurança sem falhas, monitoramento sem pausas!</p>
 
-			<p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e melhorar a IMAGEM E CONFIANÇA de todos os homens inseguros de si, que não se sentem bem consigo mesmos e com o seu reflexo no espelho e na sociedade..."</strong>.</em></p>
+			<p id="missao"><em>Nossa missão: Proteção e Inovação para um Mundo Mais Seguro <strong>"A Segurytec Monitoramento 24hrs tem o compromisso de transformar a segurança em sinônimo de tranquilidade. Nossa missão é oferecer soluções modernas e eficientes para a proteção de residências, empresas e patrimônios, garantindo vigilância contínua com tecnologia de ponta e atendimento ágil.
 
-			<p>Oferecemos produtos 100% originais e com qualidade e antenados às mudanças no mundo da moda e do desenvolvimento masculino. O atendimento possui um tipo de padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+				Acreditamos que a segurança vai além do monitoramento – é sobre confiança, prevenção e resposta rápida. Por isso, investimos constantemente em inovação, treinamento de equipe e aprimoramento dos nossos sistemas, assegurando que cada cliente tenha a melhor experiência em proteção.
+				Nosso objetivo é elevar o padrão do setor de monitoramento, entregando serviços personalizados e altamente confiáveis. Com a Segurytec, você tem a certeza de estar sempre um passo à frente quando o assunto é segurança"</strong>.</em></p>
+
+			<p>✔ Monitoramento 24 horas – Proteção contínua para residências e empresas.
+				✔ Tecnologia de ponta – Sistemas modernos para detecção e resposta rápida.
+				✔ Equipe especializada – Profissionais treinados para agir com eficiência.
+				✔ Atendimento ágil – Suporte rápido e personalizado sempre que precisar.
+				✔ Soluções personalizadas – Planos sob medida para cada tipo de necessidade.
+				✔ Compromisso com a segurança – Sua tranquilidade é nossa motivação!</p>
 		</div>
 
 		<div class="motivos">
 			<h3 class="titulo-centralizado">Bons motivos para confiar na SEGURYTEC, entre eles:</h3>
 
 			<ul>
-				<li class="itens1">Atendimento instantâneo aos Clientes</li>
-				<li class="itens1">Espaço diferenciado e mega interativo</li>
-				<li class="itens1">Características completas em todos os produtos</li>
-				<li class="itens1">Pouca quantidade, mas com muita QUALIDADE</li>
+				<li class="itens1"><strong>Experiência no Mercado</strong> – Anos de atuação garantindo a proteção de clientes.</li>
+
+				<li class="itens1"><strong>Central de Monitoramento Própria</strong> – Estrutura moderna para resposta imediata.</li>
+
+				<li class="itens1"><strong>Integração com Dispositivos Móveis </strong>– Acompanhe tudo pelo celular em tempo real.</li>
+
+				<li class="itens1"><strong>Parceria com Forças de Segurança </strong>– Comunicação rápida com polícia e bombeiros.</li>
+
+				<li class="itens1"><strong>Instalação Rápida e Segura</strong> – Equipe técnica qualificada para um serviço impecável.</li>
+
+				<li class="itens1"><strong>Compromisso com a Inovação </strong>– Investimos sempre nas melhores soluções do mercado.</li>
 			</imagensdiversas>
-			
-			<img src="https://cdn.shopify.com/s/files/1/0555/1846/2084/files/01_480x480.jpg?v=1639767647" class="imagemmotivos">
-			<img src="https://http2.mlstatic.com/D_NQ_NP_601878-MLB77752142398_072024-O.webp" class="imagemmotivos">
-			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8mdDAtHvDDGRbpp8gQiFmmmVyJMiEPNrig&s" class="imagemmotivos">
-			<img src="https://i.pinimg.com/736x/be/34/59/be345917767f48ecd09d13a6c8987281.jpg" class="imagemmotivos">
+
+
+			<div class="categorias">
+				<h4 class="titulo-centralizado">Monitoramento de Alarmes 24hrs</h4>
+
+			</div>
+			<img src="https://vigilanciapatrimonial24h.com.br/gdd/sgc/imagens/foto_texto/5/rad69B9E20249415564_651.jpg" class="imagemmotivos">
+			<img src="https://grupoarc.com.br/gdd/sgc/imagens/foto_texto/12/rad610EF2022113015339_110.jpg" class="imagemmotivos">
+			<img src="https://http2.mlstatic.com/D_NQ_NP_868190-MLB78419988118_082024-O.webp" class="imagemmotivos">
+			<img src="https://jflalarmes.com.br/wp-content/uploads/2022/07/Automacao.png" class="imagemmotivos">
+
+
+			<div class="outrascategorias">
+				<h4 class="titulo-centralizado">Câmeras e Vigilância Patrimonial</h4>
+			<img src="https://grupoproseg.com/wp-content/webp-express/webp-images/uploads/2021/03/2024-09-09-estatuto-da-seguranca-privada.png.webp" class="imagemmotivos">
+			<img src="https://backend.intelbras.com/sites/default/files/2021-04/im5-s-camera-externa-inteligente-wifi.jpg" class="imagemmotivos">
+			<img src="https://a-static.mlcdn.com.br/800x600/kit-5-camera-intelbras-seguranca-monitoramento-completo/afcameras/19892d1cb91b11ed84b74201ac185019/4167b48080126624b96237dfa2e4fb7a.jpeg" class="imagemmotivos">
+			<img src="https://www.condufibra.com.br/wp-content/uploads/2023/04/camera-ip-speed-dome-com-20x-de-zoom-optico-vip-3220-sd-ir.jpg" class="imagemmotivos">
 		</div>
-	</body>
+	</body
+
+	<div class="Link">
+		<h3 class="tipo">Segurytec Monitoramento 24hrs neste link abaixo!</h3>
+		<p style="font-size: 80px;">&#x2193;</p> <!-- Seta para baixo -->
+		<a href="https://linktr.ee/_johnz" class="botao">Empresa Segurytec bem aqui!</a>
+	</div>
+
+<style>
+.botao {
+display: inline-block;
+padding: 50px 50px;
+background-color: #193553;
+color: white;
+text-decoration: none;
+border-radius: 5px;
+font-size: 60px;
+width: 400%;
+}
+
+.botao:hover {
+background-color: #25384d;
+}
+</style>
