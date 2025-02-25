@@ -1,12 +1,14 @@
 #banner {
-	width: 50%;
+	width: 90%;
 	padding: 100px;
+	height: 250vh;
+	transform: scale(0.8);
 }
 
 .principal{
 	background: hsl(216, 29%, 17%);
 	padding: 50px;
-	width: 95%;
+	width: 100%;
 	color:white
 }
 
@@ -42,7 +44,7 @@ em strong {
 }
 
 .motivos {
-	background: #2dad6f7b;
+	background: #1452347b;
 	padding: 60px;
 	width: 95%;
 	font-size: 30px;
@@ -64,6 +66,7 @@ ul {
 color: sienna;
 width: 100%;
 font-size: 80px;
+background-color: rgb(221, 210, 182);
 
 }
 
